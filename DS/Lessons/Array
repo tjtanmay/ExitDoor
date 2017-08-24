@@ -1,0 +1,17 @@
+Array-
+
+Array is a data structure which is used to store simmilar kind of data types in a sequential manner.
+
+Arrays can be used-
+> To store data of simillar type.
+> To Perform sorting (Bubble sort, Merge Sort,insertion sort, etc..
+> in CPU scheduling.
+> in Recursive functions.
+
+Pros-
+Access to an element is fast,  using element index
+No need for boundary check i.e no wastage of computation time.
+
+
+Cons-
+Insertion or deletion in between the array is costly, because each element needs to be shifted after the inserted or deleted element.
